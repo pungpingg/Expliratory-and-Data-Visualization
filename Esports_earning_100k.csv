@@ -1,0 +1,179 @@
+IdNo,GameName,Genre,Top_Country,Country_Code,Continent,Releaseyear,PlayerNo,TournamentNo, Top_Country_Earnings , TotalMoney 
+231,Dota 2,Multiplayer Online Battle Arena,China,CN,Asia,2013,3836,1434,65060611.47,227419904.5
+245,Counter-Strike: Global Offensive,First-Person Shooter,Denmark,DK,Europe,2012,13032,5252,15379018.34,102474261.3
+534,Fortnite,Battle Royale,United States,US,North America,2017,4347,660,33422756.37,97508425
+164,League of Legends,Multiplayer Online Battle Arena,Korea,KP,Asia,2009,7130,2477,26739426.14,79003448.94
+151,StarCraft II,Strategy,Korea,KP,Asia,2010,2078,5909,20635189.05,33914062.96
+426,Overwatch,First-Person Shooter,Korea,KP,Asia,2016,3494,743,13127719.69,26049333.28
+504,PLAYERUNKNOWN'S BATTLEGROUNDS,Battle Royale,Korea,KP,Asia,2017,2754,294,6136956.62,23710378.57
+328,Hearthstone,Collectible Card Game,China,CN,Asia,2014,2423,898,3598395.2,23098378.24
+371,Heroes of the Storm,Multiplayer Online Battle Arena,Korea,KP,Asia,2015,1250,463,5808630.38,18177982.65
+529,Arena of Valor,Multiplayer Online Battle Arena,China,CN,Asia,2015,558,51,5016882.31,15228710.62
+162,Counter-Strike,First-Person Shooter,Sweden,SE,Europe,2000,4137,995,2837398.01,13494229.57
+439,Rainbow Six Siege,First-Person Shooter,United States,US,North America,2015,1552,228,2959315.46,12214525.74
+409,Rocket League,Sports,United States,US,North America,2015,1086,1087,2894739.17,9171818.72
+351,SMITE,Multiplayer Online Battle Arena,United States,US,North America,2014,522,95,3512644.34,8640112.75
+152,StarCraft: Brood War,Strategy,Korea,KP,Asia,1998,674,571,7577721.71,8251181.43
+423,Halo 5: Guardians,First-Person Shooter,United States,US,North America,2015,233,75,5359312.23,7071480.97
+549,Call of Duty: Black Ops 4,First-Person Shooter,United States,US,North America,2018,376,66,4723999.52,6701938.95
+626,Call of Duty: Modern Warfare,First-Person Shooter,United States,US,North America,2019,255,44,4606600,6592284.5
+352,CrossFire,First-Person Shooter,China,CN,Asia,2007,629,306,2116121.6,6448845.02
+158,WarCraft III,Strategy,Korea,KP,Asia,2002,558,1335,2054554.12,5811479.73
+567,Magic: The Gathering Arena,Collectible Card Game,United States,US,North America,2018,232,36,1229725,5512000
+165,World of WarCraft,Role-Playing Game,United States,US,North America,2004,413,118,1416887.48,4957837.61
+490,Call of Duty: World War II,First-Person Shooter,United States,US,North America,2017,266,64,3250438.02,4559271
+566,Apex Legends,Battle Royale,United States,US,North America,2019,1099,170,1825646.05,4273351.69
+455,Call of Duty: Infinite Warfare,First-Person Shooter,United States,US,North America,2016,341,80,2703625,4156205.06
+425,Call of Duty: Black Ops III,First-Person Shooter,United States,US,North America,2015,420,78,2254984.62,3939783.29
+554,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,Battle Royale,China,CN,Asia,2017,1055,39,914193.07,3764853.07
+345,World of Tanks,Strategy,Russian Federation,RU,Europe,2010,403,50,1290113.15,3656496.59
+464,Clash Royale,Strategy,United States,US,North America,2016,287,50,514837.21,3319748.27
+556,FIFA 19,Sports,Germany,DE,Europe,2018,303,48,612962.72,3242642.34
+564,Shadowverse,Collectible Card Game,Japan,JP,Asia,2016,239,42,1633309.47,3211177.09
+204,Super Smash Bros. Melee,Fighting Game,United States,US,North America,2001,1878,2608,2420764.48,3210134.19
+226,Counter-Strike: Source,First-Person Shooter,United States,US,North America,2004,1502,333,748374.21,3117222.29
+452,Gears of War 4,Third-Person Shooter,United States,US,North America,2016,135,41,2081425,3087285
+242,Heroes of Newerth,Multiplayer Online Battle Arena,Sweden,SE,Europe,2010,813,371,669252.19,2915206.56
+364,Call of Duty: Advanced Warfare,First-Person Shooter,United States,US,North America,2014,783,404,2069853.35,2608808.93
+499,Quake Champions,First-Person Shooter,United States,US,North America,2017,250,239,675806.05,2409118.25
+518,FIFA 18,Sports,Saudi Arabia,SA,Asia,2017,238,48,525250,2233697.69
+434,Street Fighter V,Fighting Game,United States,US,North America,2016,233,120,729298.52,2202726.43
+155,Halo 3,First-Person Shooter,United States,US,North America,2007,210,41,1993437.1,2158079.4
+447,Paladins,First-Person Shooter,United States,US,North America,2015,575,67,566877.41,2136366.6
+419,H1Z1,Battle Royale,United States,US,North America,2016,119,13,1255333.44,2067122
+536,Street Fighter V: Arcade Edition,Fighting Game,Japan,JP,Asia,2018,229,100,912761.05,2017135.95
+648,Call of Duty: Warzone,First-Person Shooter,United States,US,North America,2020,471,77,1147762.84,1896488.96
+406,Tekken 7,Fighting Game,Korea,KP,Asia,2015,425,235,721643.78,1687721.25
+273,Call of Duty: Ghosts,First-Person Shooter,United States,US,North America,2013,199,76,1136779.78,1594185.25
+374,Super Smash Bros. for Wii U,Fighting Game,United States,US,North America,2014,1264,1022,877229.51,1511976.47
+179,Age of Empires II,Strategy,China,CN,Asia,1999,956,576,174252.44,1492489.51
+154,Halo 2,First-Person Shooter,United States,US,North America,2004,119,71,1392257.62,1489362.47
+465,FIFA 17,Sports,United Kingdom,UK,Europe,2016,156,48,382513.48,1482612.63
+257,Call of Duty: Black Ops 2,First-Person Shooter,United States,US,North America,2012,184,53,1046289.3,1467139.25
+368,FIFA Online 3,Sports,Korea,KP,Asia,2012,89,9,621372.88,1434341.9
+558,Super Smash Bros. Ultimate,Fighting Game,United States,US,North America,2018,1879,1197,701269.25,1311867.69
+646,VALORANT,First-Person Shooter,United States,US,North America,2020,1662,247,324655.6,1272788.03
+595,Gears 5,Third-Person Shooter,United States,US,North America,2019,140,18,664050,1223000
+526,rFactor 2,Racing,Netherlands,NL,Europe,2013,196,42,281543.31,1222855.26
+545,Magic: The Gathering Online,Collectible Card Game,United States,US,North America,2002,130,10,446000,1218000
+532,iRacing.com,Racing,United States,US,North America,2008,759,94,440371.79,1198206.13
+258,Call of Duty: Modern Warfare 3,First-Person Shooter,United States,US,North America,2011,209,45,684635.7,1160815.66
+443,Brawlhalla,Fighting Game,United States,US,North America,2015,497,387,638671.59,1159994.09
+621,FIFA 20,Sports,United Kingdom,UK,Europe,2019,248,39,205613.04,1144673.72
+159,Quake III Arena,First-Person Shooter,United States,US,North America,1999,243,100,534686.05,1137832.19
+649,chess24,Strategy,Norway,NO,Europe,2014,60,9,330170.48,1084696.09
+589,Auto Chess,Strategy,Korea,KP,Asia,2019,72,6,515267.34,1076322.28
+239,Painkiller,First-Person Shooter,United States,US,North America,2004,48,13,299225,1015000
+598,Free Fire,Battle Royale,Thailand,TH,Asia,2017,291,14,355385.22,1006392.23
+475,Madden NFL 2017,Sports,United States,US,North America,2016,42,5,1004000,1004000
+538,NBA 2K18,Sports,United States,US,North America,2017,91,4,940633.24,1000000
+370,Turbo Racing League,Racing,United States,US,North America,2013,16,9,800000,1000000
+547,Chess.com,Strategy,United States,US,North America,2007,615,165,303219.83,923790.96
+163,Defense of the Ancients,Multiplayer Online Battle Arena,China,CN,Asia,2003,468,94,454766.87,857420.65
+487,Gwent,Collectible Card Game,Germany,DE,Europe,2016,320,110,264979.87,841757.17
+494,Injustice 2,Fighting Game,United States,US,North America,2017,81,37,637431.55,835742.83
+650,Lichess,Strategy,United States,US,North America,2010,200,75,415335,827768.91
+156,Halo: Reach,First-Person Shooter,United States,US,North America,2010,101,29,747862.6,822089.97
+592,Teamfight Tactics,Strategy,United States,US,North America,2019,159,15,233175,819313.65
+339,Ultra Street Fighter IV,Fighting Game,Japan,JP,Asia,2014,231,229,460748.79,816713.46
+577,Forza Motorsport 7,Racing,United Kingdom,UK,Europe,2017,118,12,246033.36,800200
+449,Vainglory,Multiplayer Online Battle Arena,United States,US,North America,2014,247,35,216009.95,797421.19
+507,Clash of Clans,Strategy,China,CN,Asia,2012,77,6,268750,766546.87
+335,Team Fortress 2,First-Person Shooter,United States,US,North America,2007,1364,197,348503.14,718078.81
+346,Point Blank,First-Person Shooter,Russian Federation,RU,Europe,2008,297,32,212436.26,699167.75
+157,Quake Live,First-Person Shooter,United States,US,North America,2010,213,410,235711.84,682294.04
+555,FIFA Online 4,Sports,Korea,KP,Asia,2018,84,4,213999.96,679240
+704,Call of Duty: Blackout,First-Person Shooter,United States,US,North America,2018,175,18,429158.72,611608.35
+483,KartRider,Racing,Korea,KP,Asia,2004,76,20,560130.35,567366.35
+169,Quake 4,First-Person Shooter,Sweden,SE,Europe,2005,100,52,231225.67,556678.51
+610,F1 2019,Racing,Italy,IT,Europe,2019,25,2,133333.32,538047.38
+391,Mortal Kombat X,Fighting Game,United States,US,North America,2015,100,62,411599.58,523532.42
+451,Pro Evolution Soccer 2017,Sports,Brazil,BR,South America,2016,39,16,206000,514697.71
+192,Dead or Alive 4,Fighting Game,United States,US,North America,2005,45,13,228250,497745.31
+381,Guild Wars 2,Role-Playing Game,United States,US,North America,2012,152,57,161799.53,476005.5
+384,Halo 2 Anniversary,First-Person Shooter,United States,US,North America,2014,97,20,406262.5,468705.05
+255,FIFA 13,Sports,Sweden,SE,Europe,2012,53,62,150750.89,458427.82
+627,TEPPEN,Strategy,Taiwan,TW,Asia,2019,12,1,280883.69,456721.47
+256,Halo 4,First-Person Shooter,United States,US,North America,2012,66,19,419402.56,430748.76
+557,Old School Runescape,Role-Playing Game,United Kingdom,UK,Europe,2013,66,22,170313.7,422504.2
+264,Call of Duty 4: Modern Warfare,First-Person Shooter,United Kingdom,UK,Europe,2007,422,86,104318.64,420331.47
+405,Blade& Soul,Multiplayer Online Battle Arena,Korea,KP,Asia,2012,51,5,234303.31,409355.52
+463,Counter-Strike Online,First-Person Shooter,China,CN,Asia,2016,70,12,286759.6,406989.6
+275,Madden NFL 2013,Sports,United States,US,North America,2012,8,1,209200,400000
+583,Mortal Kombat 11,Fighting Game,United States,US,North America,2019,158,37,271196.3,392602.33
+243,Call of Duty: Black Ops,First-Person Shooter,United States,US,North America,2010,118,23,302375.01,375793.48
+208,Super Street Fighter IV Arcade Edition,Fighting Game,Japan,JP,Asia,2010,153,202,160296.98,343878.08
+541,Dragon Ball FighterZ,Fighting Game,Japan,JP,Asia,2018,159,73,166119.31,337985.4
+638,WarCraft III: Reforged,Strategy,China,CN,Asia,2020,77,61,137680.86,314925.29
+696,Fall Guys,Battle Royale,United States,US,North America,2020,237,4,242375,302000
+153,Halo: Combat Evolved,First-Person Shooter,United States,US,North America,2001,114,39,183416,299281
+663,Hyper Scape,Multiplayer Online Battle Arena,United States,US,North America,2020,260,4,135116.66,299000
+180,Project Gotham Racing 3,Racing,United States,US,North America,2005,33,10,200000,297286.85
+347,World in Conflict,Strategy,United Kingdom,UK,Europe,2007,38,11,62120.63,293338.23
+519,Madden NFL 2018,Sports,United States,US,North America,2017,40,3,230567.66,279676.62
+559,Minecraft,Multiplayer Online Battle Arena,United States,US,North America,2011,81,14,119775,279539.15
+546,Realm Royale,First-Person Shooter,United States,US,North America,2018,47,9,208250,263000
+254,ShootMania Storm,First-Person Shooter,France,FR,Europe,2013,80,40,103365.62,261687.04
+170,Doom 3,First-Person Shooter,China,CN,Asia,2004,14,4,144748.16,257748.16
+214,Gears of War,Third-Person Shooter,United States,US,North America,2006,33,18,4878.3,252195.57
+550,Pro Evolution Soccer 2018,Sports,Italy,IT,Europe,2017,20,3,108000,250000
+205,Super Smash Bros. Brawl,Fighting Game,United States,US,North America,2008,499,344,197341.12,246715.83
+274,Battlefield 4,First-Person Shooter,France,FR,Europe,2013,204,145,42107,245766.46
+219,FIFA 07,Sports,Canada,CA,North America,2006,42,13,55000,237812.23
+333,Killer Instinct (2013),Fighting Game,United States,US,North America,2013,128,53,213827.07,224466.96
+270,Forza Motorsport 2,Racing,United Kingdom,UK,Europe,2007,17,2,125000,222000
+645,Pro Evolution Soccer 2019,Sports,Brazil,BR,South America,2019,25,2,93400,216000
+503,Pokémon VGC,Strategy,United States,US,North America,2017,170,24,82250,211500
+218,FIFA 08,Sports,United Kingdom,UK,Europe,2007,68,17,53473.11,207129.94
+331,Project M,Fighting Game,United States,US,North America,2010,560,335,164361.47,205292.09
+662,NASCAR Heat 4,Racing,United States,US,North America,2019,34,5,200500,200500
+579,F1 2018,Racing,United Kingdom,UK,Europe,2018,21,1,56833.33,200000
+571,Guns of Boom,First-Person Shooter,United Kingdom,UK,Europe,2017,8,21,20887.5,198750
+272,TrackMania 2: Stadium,Racing,France,FR,Europe,2013,345,281,63229.78,198363.85
+553,Assetto Corsa,Racing,Czech Republic,CZ,Europe,2014,81,31,68689.4,191851.7
+510,Age of Empires,Strategy,Vietnam,VN,Asia,1997,246,95,123408.43,190075.61
+528,Battalion 1944,First-Person Shooter,United States,US,North America,2018,114,21,42650,185654.67
+366,F.E.A.R.,First-Person Shooter,Sweden,SE,Europe,2005,20,5,76500,178000
+265,Rainbow Six: Vegas,First-Person Shooter,United States,US,North America,2006,137,7,53737.32,176400.77
+505,Gears of War: Ultimate Edition,Third-Person Shooter,United States,US,North America,2015,39,3,133500,170000
+172,TrackMania Nations Forever,Racing,Sweden,SE,Europe,2008,109,73,45848.68,167386.65
+171,Counter-Strike: Condition Zero,First-Person Shooter,Korea,KP,Asia,2004,111,3,87150.78,162150.6
+630,Farming Simulator 19,Strategy,Germany,DE,Europe,2018,84,12,132590.48,158361.3
+694,Multigaming,Strategy,France,FR,Europe,2000,19,3,148384.38,148384.33
+183,Unreal Tournament 2003,First-Person Shooter,United States,US,North America,2002,33,14,39000,147473.91
+362,FIFA 15,Sports,France,FR,Europe,2014,169,352,34394.05,144373.99
+496,Wolfenstein: Enemy Territory,First-Person Shooter,Estonia,EE,Europe,2003,152,18,49392.32,140963.24
+161,Quake II,First-Person Shooter,United States,US,North America,1997,32,10,100600,140179.5
+211,Mortal Kombat 9,Fighting Game,United States,US,North America,2011,67,26,136719.5,136891.67
+184,Unreal Tournament 2004,First-Person Shooter,Germany,DE,Europe,2004,41,12,48947.2,133969.33
+411,S.K.I.L.L. - Special Force 2,First-Person Shooter,Germany,DE,Europe,2013,82,21,25836.34,132532.93
+407,Evolve,First-Person Shooter,United States,US,North America,2015,110,33,79839.27,131509.05
+448,Mortal Kombat XL,Fighting Game,United States,US,North America,2016,50,17,81834.47,129203.79
+251,Tekken Tag Tournament 2,Fighting Game,Korea,KP,Asia,2011,142,138,66431,125965.7
+573,Madden NFL 19,Sports,United States,US,North America,2018,5,3,125000,125000
+217,FIFA 09,Sports,Germany,DE,Europe,2008,52,19,65418.41,121618.34
+706,Radical Heights,Battle Royale,United States,US,North America,2018,12,2,50000,120000
+189,Tekken 6,Fighting Game,United States,US,North America,2007,59,30,56523.74,119874.64
+552,Artifact,Collectible Card Game,China,CN,Asia,2018,275,166,26273.47,119168.54
+644,Legends of Runeterra,Collectible Card Game,United States,US,North America,2020,30,5,48000,118481.03
+421,FIFA 16,Sports,Germany,DE,Europe,2015,61,28,35842.63,117828.11
+216,FIFA 10,Sports,Germany,DE,Europe,2009,64,48,33692.39,117026.71
+249,Ultimate Marvel vs. Capcom 3,Fighting Game,United States,US,North America,2011,190,169,100625.35,116733.16
+495,Guilty Gear Xrd REV 2,Fighting Game,Japan,JP,Asia,2017,101,49,71752.66,116634.7
+369,Call of Duty: Modern Warfare 2,First-Person Shooter,United States,US,North America,2009,59,18,52650,112860.64
+220,FIFA 06,Sports,Germany,DE,Europe,2005,23,12,30761.56,112464.53
+568,Soul Calibur VI,Fighting Game,United States,US,North America,2018,101,49,59002.2,109895.21
+530,Warface,First-Person Shooter,Russian Federation,RU,Europe,2013,32,2,89448.6,109555
+489,Attack on Titan Tribute Game,Fighting Game,Australia,AU,Oceania,2013,21,15,35100,108650
+259,Unreal Tournament 3,First-Person Shooter,Portugal,PT,Europe,2007,7,4,42520.51,104977.82
+160,QuakeWorld,First-Person Shooter,United States,US,North America,1996,47,15,36325,103251.7
+569,RaceRoom Racing Experience,Racing,Germany,DE,Europe,2013,143,18,45210.29,102918.7
+542,NHL 18,Sports,Finland,FI,Europe,2017,20,6,52500,102700
+198,Soul Calibur IV,Fighting Game,United States,US,North America,2008,4,3,100260,100260
+565,Creative Destruction,Multiplayer Online Battle Arena,United States,US,North America,2018,8,1,90000,100000
+477,Madden NFL 2006,Sports,United States,US,North America,2005,1,1,100000,100000
+478,Madden NFL 2007,Sports,United States,US,North America,2006,1,1,100000,100000
+479,Madden NFL 2008,Sports,United States,US,North America,2007,1,1,100000,100000
+480,Madden NFL 2009,Sports,United States,US,North America,2008,1,1,100000,100000
+698,Rocket Arena,Battle Royale,United States,US,North America,2020,24,3,95700,100000
+535,Zula,First-Person Shooter,Poland,PL,Europe,2015,20,1,65000,100000
